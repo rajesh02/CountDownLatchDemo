@@ -1,0 +1,13 @@
+ Volume in drive D is Data
+ Volume Serial Number is 9257-4347
+
+ Directory of D:\GITExample
+
+02/14/2017  02:12 PM    <DIR>          .
+02/14/2017  02:12 PM    <DIR>          ..
+02/14/2017  11:56 AM    <DIR>          CountDownLatchDemo
+02/14/2017  02:11 PM                97 hello
+02/14/2017  02:12 PM                 0 hello.txt
+02/14/2017  12:00 PM               392 readme.txt
+               3 File(s)            489 bytes
+               3 Dir(s)  215,519,711,232 bytes free
